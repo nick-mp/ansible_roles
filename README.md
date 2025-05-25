@@ -58,7 +58,7 @@ ansible_Clickhouse_vector_lighthouse/
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone https://github.com/nick-mp/ansible_roles.git
 cd ansible_Clickhouse_vector_lighthouse
 ```
 
