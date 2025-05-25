@@ -12,9 +12,7 @@ ansible_Clickhouse_vector_lighthouse/
 ├── clickhouse-role/     # Роль для установки и настройки Clickhouse
 ├── vector-role/         # Роль для установки и настройки Vector
 ├── lighthouse-role/     # Роль для установки и настройки LightHouse
-├── group_vars/          # Переменные для групп хостов
 ├── inventory/           # Инвентарь хостов
-├── templates/           # Шаблоны конфигураций
 ├── requirements.yml     # Зависимости ролей
 └── site.yml            # Основной playbook
 ```
